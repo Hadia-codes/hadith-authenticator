@@ -1,0 +1,6 @@
+{
+  "name": "Hadith Authenticator",
+  "description": "An AI-powered web application to verify the authenticity and source of Hadith and Sunnah text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
